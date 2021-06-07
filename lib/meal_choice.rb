@@ -7,3 +7,7 @@ def meal_choice (potatoes, corn, protein = 'tofu')
   meal 
 end
 
+<<<<<<< HEAD
+=======
+meal_choice
+>>>>>>> 7db687b46ff3dbee651b94e0c068e443fa38385d
